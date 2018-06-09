@@ -1,0 +1,16 @@
+{
+  "name": "node-cli-app",
+  "version": "1.0.0",
+  "description": "Node CLI app",
+  "main": "index.js",
+  "author": "Keyvhinng <keyvhinng@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "outside": "bin/outside"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "minimist": "^1.2.0",
+    "ora": "^2.1.0"
+  }
+}
